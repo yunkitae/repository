@@ -1,12 +1,12 @@
 자기소개
 -----------------------------
-이름:
+이름: 함한욱
 
-팀 :
+팀 : UX개발팀
 
-Github ID:
+Github ID: hamakun
 
-email :
+email : hamakun@wemakeprice.com
 
 
 
